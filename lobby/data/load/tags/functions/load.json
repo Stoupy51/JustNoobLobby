@@ -1,6 +1,5 @@
 {
 	"values": [
-		"paralya:load",
-		"lobby:load"
+		"jn_lobby:load"
 	]
 }

@@ -1,5 +1,5 @@
 {
 	"values": [
-		"lobby:post_load"
+		"jn_lobby:post_load"
 	]
 }
