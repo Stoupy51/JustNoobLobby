@@ -4,5 +4,5 @@ tellraw @a[tag=convention.debug] {"text":"[Loaded JustNoobLobby v1.0.0]","italic
 
 # Repeat this function every tick to check if the player is in the lobby
 execute unless entity @a run schedule function jn_lobby:post_load 1t
-execute as @p run function jn_lobby:utils/call_timestamp
+execute if entity @a run function jn_lobby:utils/call_timestamp
 

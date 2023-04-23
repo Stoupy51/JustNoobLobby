@@ -16,7 +16,7 @@ execute if score #value jn_lobby.data matches 0 if data storage jn_lobby:main {t
 
 # Apply the multiplier
 scoreboard players operation #value jn_lobby.data *= #multiplier jn_lobby.data
-scoreboard players operation seconds jn_lobby.timestamp += #value jn_lobby.data
+scoreboard players operation #temp_seconds jn_lobby.timestamp += #value jn_lobby.data
 scoreboard players operation #multiplier jn_lobby.data /= #10 jn_lobby.data
 
 # Repeat until the multiplier is 0
