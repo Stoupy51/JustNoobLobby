@@ -9,6 +9,3 @@ execute if data storage suso.str:io out.time[0] run function jn_lobby:utils/upda
 # Update the timestamp if higher than the current one
 execute if score #temp_seconds jn_lobby.timestamp > seconds jn_lobby.timestamp run scoreboard players operation seconds jn_lobby.timestamp = #temp_seconds jn_lobby.timestamp
 
-# Else, schedule the function again
-execute if score #temp_seconds jn_lobby.timestamp < seconds jn_lobby.timestamp run schedule function jn_lobby:utils/call_timestamp 1s replace
-
