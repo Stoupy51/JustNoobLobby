@@ -1195,3 +1195,4 @@ team add MJ
 team modify MJ displayName {"text":"MJ","color":"dark_aqua"}
 team modify MJ suffix {"text":" [MJ]","color":"dark_aqua"}
 team modify MJ color aqua
+
