@@ -227,5 +227,4 @@ team join S12_15 pegafil
 team join S12_16 Nanows
 team join S12_17 ZMC_Yoann
 team join S12_18 ShawDen_
-team join new @a[team=]
 

@@ -97,9 +97,6 @@ def create_players_file(players: list) -> None:
 		# Création de la ligne qui met le joueur dans l'équipe
 		f.write(f'team join {saison}_{pos} {pseudo}\n')
 
-	# Join des joueurs sans équipe dans l'équipe "new"
-	f.write(f'team join new @a[team=]\n')
-
 	# Fermeture du fichier et retour
 	f.write("\n")
 	f.close()
