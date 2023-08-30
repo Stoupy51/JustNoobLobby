@@ -1191,6 +1191,206 @@ team modify S12_x displayName {"text":"S12 - ???","color":"#0240d1"}
 team modify S12_x suffix {"text":" [S12 - ???]","color":"#0240d1"}
 team modify S12_x color dark_blue
 
+team add S13_01
+team modify S13_01 displayName {"text":"S13 - 1st","color":"#EBD759"}
+team modify S13_01 suffix {"text":" [S13 - 1st]","color":"#EBD759"}
+team modify S13_01 color gray
+
+team add S13_02
+team modify S13_02 displayName {"text":"S13 - 2nd","color":"#C0C0C0"}
+team modify S13_02 suffix {"text":" [S13 - 2nd]","color":"#C0C0C0"}
+team modify S13_02 color gray
+
+team add S13_03
+team modify S13_03 displayName {"text":"S13 - 3rd","color":"#CD7F32"}
+team modify S13_03 suffix {"text":" [S13 - 3rd]","color":"#CD7F32"}
+team modify S13_03 color gray
+
+team add S13_04
+team modify S13_04 displayName {"text":"S13 - 4th","color":"#696969"}
+team modify S13_04 suffix {"text":" [S13 - 4th]","color":"#696969"}
+team modify S13_04 color gray
+
+team add S13_05
+team modify S13_05 displayName {"text":"S13 - 5th","color":"#696969"}
+team modify S13_05 suffix {"text":" [S13 - 5th]","color":"#696969"}
+team modify S13_05 color gray
+
+team add S13_06
+team modify S13_06 displayName {"text":"S13 - 6th","color":"#696969"}
+team modify S13_06 suffix {"text":" [S13 - 6th]","color":"#696969"}
+team modify S13_06 color gray
+
+team add S13_07
+team modify S13_07 displayName {"text":"S13 - 7th","color":"#696969"}
+team modify S13_07 suffix {"text":" [S13 - 7th]","color":"#696969"}
+team modify S13_07 color gray
+
+team add S13_08
+team modify S13_08 displayName {"text":"S13 - 8th","color":"#696969"}
+team modify S13_08 suffix {"text":" [S13 - 8th]","color":"#696969"}
+team modify S13_08 color gray
+
+team add S13_09
+team modify S13_09 displayName {"text":"S13 - 9th","color":"#696969"}
+team modify S13_09 suffix {"text":" [S13 - 9th]","color":"#696969"}
+team modify S13_09 color gray
+
+team add S13_10
+team modify S13_10 displayName {"text":"S13 - 10th","color":"#696969"}
+team modify S13_10 suffix {"text":" [S13 - 10th]","color":"#696969"}
+team modify S13_10 color gray
+
+team add S13_11
+team modify S13_11 displayName {"text":"S13 - 11th","color":"#696969"}
+team modify S13_11 suffix {"text":" [S13 - 11th]","color":"#696969"}
+team modify S13_11 color gray
+
+team add S13_12
+team modify S13_12 displayName {"text":"S13 - 12th","color":"#696969"}
+team modify S13_12 suffix {"text":" [S13 - 12th]","color":"#696969"}
+team modify S13_12 color gray
+
+team add S13_13
+team modify S13_13 displayName {"text":"S13 - 13th","color":"#696969"}
+team modify S13_13 suffix {"text":" [S13 - 13th]","color":"#696969"}
+team modify S13_13 color gray
+
+team add S13_14
+team modify S13_14 displayName {"text":"S13 - 14th","color":"#696969"}
+team modify S13_14 suffix {"text":" [S13 - 14th]","color":"#696969"}
+team modify S13_14 color gray
+
+team add S13_15
+team modify S13_15 displayName {"text":"S13 - 15th","color":"#696969"}
+team modify S13_15 suffix {"text":" [S13 - 15th]","color":"#696969"}
+team modify S13_15 color gray
+
+team add S13_16
+team modify S13_16 displayName {"text":"S13 - 16th","color":"#696969"}
+team modify S13_16 suffix {"text":" [S13 - 16th]","color":"#696969"}
+team modify S13_16 color gray
+
+team add S13_17
+team modify S13_17 displayName {"text":"S13 - 17th","color":"#696969"}
+team modify S13_17 suffix {"text":" [S13 - 17th]","color":"#696969"}
+team modify S13_17 color gray
+
+team add S13_18
+team modify S13_18 displayName {"text":"S13 - 18th","color":"#696969"}
+team modify S13_18 suffix {"text":" [S13 - 18th]","color":"#696969"}
+team modify S13_18 color gray
+
+team add S13_19
+team modify S13_19 displayName {"text":"S13 - 19th","color":"#696969"}
+team modify S13_19 suffix {"text":" [S13 - 19th]","color":"#696969"}
+team modify S13_19 color gray
+
+team add S13_20
+team modify S13_20 displayName {"text":"S13 - 20th","color":"#696969"}
+team modify S13_20 suffix {"text":" [S13 - 20th]","color":"#696969"}
+team modify S13_20 color gray
+
+team add S13_x
+team modify S13_x displayName {"text":"S13 - ???","color":"#696969"}
+team modify S13_x suffix {"text":" [S13 - ???]","color":"#696969"}
+team modify S13_x color gray
+
+team add S14_01
+team modify S14_01 displayName {"text":"S14 - 1st","color":"#EBD759"}
+team modify S14_01 suffix {"text":" [S14 - 1st]","color":"#EBD759"}
+team modify S14_01 color light_purple
+
+team add S14_02
+team modify S14_02 displayName {"text":"S14 - 2nd","color":"#C0C0C0"}
+team modify S14_02 suffix {"text":" [S14 - 2nd]","color":"#C0C0C0"}
+team modify S14_02 color light_purple
+
+team add S14_03
+team modify S14_03 displayName {"text":"S14 - 3rd","color":"#CD7F32"}
+team modify S14_03 suffix {"text":" [S14 - 3rd]","color":"#CD7F32"}
+team modify S14_03 color light_purple
+
+team add S14_04
+team modify S14_04 displayName {"text":"S14 - 4th","color":"#ffb8cc"}
+team modify S14_04 suffix {"text":" [S14 - 4th]","color":"#ffb8cc"}
+team modify S14_04 color light_purple
+
+team add S14_05
+team modify S14_05 displayName {"text":"S14 - 5th","color":"#ffb8cc"}
+team modify S14_05 suffix {"text":" [S14 - 5th]","color":"#ffb8cc"}
+team modify S14_05 color light_purple
+
+team add S14_06
+team modify S14_06 displayName {"text":"S14 - 6th","color":"#ffb8cc"}
+team modify S14_06 suffix {"text":" [S14 - 6th]","color":"#ffb8cc"}
+team modify S14_06 color light_purple
+
+team add S14_07
+team modify S14_07 displayName {"text":"S14 - 7th","color":"#ffb8cc"}
+team modify S14_07 suffix {"text":" [S14 - 7th]","color":"#ffb8cc"}
+team modify S14_07 color light_purple
+
+team add S14_08
+team modify S14_08 displayName {"text":"S14 - 8th","color":"#ffb8cc"}
+team modify S14_08 suffix {"text":" [S14 - 8th]","color":"#ffb8cc"}
+team modify S14_08 color light_purple
+
+team add S14_09
+team modify S14_09 displayName {"text":"S14 - 9th","color":"#ffb8cc"}
+team modify S14_09 suffix {"text":" [S14 - 9th]","color":"#ffb8cc"}
+team modify S14_09 color light_purple
+
+team add S14_10
+team modify S14_10 displayName {"text":"S14 - 10th","color":"#ffb8cc"}
+team modify S14_10 suffix {"text":" [S14 - 10th]","color":"#ffb8cc"}
+team modify S14_10 color light_purple
+
+team add S14_11
+team modify S14_11 displayName {"text":"S14 - 11th","color":"#ffb8cc"}
+team modify S14_11 suffix {"text":" [S14 - 11th]","color":"#ffb8cc"}
+team modify S14_11 color light_purple
+
+team add S14_12
+team modify S14_12 displayName {"text":"S14 - 12th","color":"#ffb8cc"}
+team modify S14_12 suffix {"text":" [S14 - 12th]","color":"#ffb8cc"}
+team modify S14_12 color light_purple
+
+team add S14_13
+team modify S14_13 displayName {"text":"S14 - 13th","color":"#ffb8cc"}
+team modify S14_13 suffix {"text":" [S14 - 13th]","color":"#ffb8cc"}
+team modify S14_13 color light_purple
+
+team add S14_14
+team modify S14_14 displayName {"text":"S14 - 14th","color":"#ffb8cc"}
+team modify S14_14 suffix {"text":" [S14 - 14th]","color":"#ffb8cc"}
+team modify S14_14 color light_purple
+
+team add S14_15
+team modify S14_15 displayName {"text":"S14 - 15th","color":"#ffb8cc"}
+team modify S14_15 suffix {"text":" [S14 - 15th]","color":"#ffb8cc"}
+team modify S14_15 color light_purple
+
+team add S14_16
+team modify S14_16 displayName {"text":"S14 - 16th","color":"#ffb8cc"}
+team modify S14_16 suffix {"text":" [S14 - 16th]","color":"#ffb8cc"}
+team modify S14_16 color light_purple
+
+team add S14_17
+team modify S14_17 displayName {"text":"S14 - 17th","color":"#ffb8cc"}
+team modify S14_17 suffix {"text":" [S14 - 17th]","color":"#ffb8cc"}
+team modify S14_17 color light_purple
+
+team add S14_18
+team modify S14_18 displayName {"text":"S14 - 18th","color":"#ffb8cc"}
+team modify S14_18 suffix {"text":" [S14 - 18th]","color":"#ffb8cc"}
+team modify S14_18 color light_purple
+
+team add S14_x
+team modify S14_x displayName {"text":"S14 - ???","color":"#ffb8cc"}
+team modify S14_x suffix {"text":" [S14 - ???]","color":"#ffb8cc"}
+team modify S14_x color light_purple
+
 team add MJ
 team modify MJ displayName {"text":"MJ","color":"dark_aqua"}
 team modify MJ suffix {"text":" [MJ]","color":"dark_aqua"}
