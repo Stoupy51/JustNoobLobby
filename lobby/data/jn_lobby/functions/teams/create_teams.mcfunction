@@ -1386,6 +1386,16 @@ team modify S14_18 displayName {"text":"S14 - 18th","color":"#ffb8cc"}
 team modify S14_18 suffix {"text":" [S14 - 18th]","color":"#ffb8cc"}
 team modify S14_18 color light_purple
 
+team add S14_19
+team modify S14_19 displayName {"text":"S14 - 19th","color":"#ffb8cc"}
+team modify S14_19 suffix {"text":" [S14 - 19th]","color":"#ffb8cc"}
+team modify S14_19 color light_purple
+
+team add S14_20
+team modify S14_20 displayName {"text":"S14 - 20th","color":"#ffb8cc"}
+team modify S14_20 suffix {"text":" [S14 - 20th]","color":"#ffb8cc"}
+team modify S14_20 color light_purple
+
 team add S14_x
 team modify S14_x displayName {"text":"S14 - ???","color":"#ffb8cc"}
 team modify S14_x suffix {"text":" [S14 - ???]","color":"#ffb8cc"}

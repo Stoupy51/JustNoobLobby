@@ -119,7 +119,7 @@ teams = [
 	("S11", "#ee24a4", 21, "light_purple"),
 	("S12", "#0240d1", 18, "dark_blue"),
 	("S13", "#696969", 20, "gray"),
-	("S14", "#ffb8cc", 18, "light_purple"),
+	("S14", "#ffb8cc", 20, "light_purple"),
 	("S15", "#006910", 21, "dark_green"),
 	("S16", "#dab10e", 21, "gold"),
 	("S17", "#c31a0b", 18, "dark_red"),
